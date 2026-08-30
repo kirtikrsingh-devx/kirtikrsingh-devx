@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **kirtikrsingh963@gmail.com** For Collaboration/Project or 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kirtisingh963&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kirtikrsingh-devx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kirtisingh963&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -26,9 +26,9 @@ Email Me 👉 ✉️ **kirtikrsingh963@gmail.com** For Collaboration/Project or 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kirtisingh963&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kirtikrsingh-devx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kirtisingh963&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=kirtikrsingh-devx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
