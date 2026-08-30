@@ -17,9 +17,9 @@ Email Me 👉 ✉️ **kirtikrsingh963@gmail.com** For Collaboration/Project or 
 ![](https://github-profile-trophy.vercel.app/?username=kirtikrsingh-devx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kirtisingh963&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kirtisingh963&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kirtisingh963&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=kirtikrsingh-devx&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kirtikrsingh-devx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kirtikrsingh-devx&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
